@@ -1,0 +1,28 @@
+.task-form{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.task-input{
+    width: 350px;
+    font-size: 20px;
+    border: 2px solid #ccc;
+    background-color: #e8c57c;
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+}
+
+.task-button{
+    padding: 16px;
+    font-size:18px;
+    border: none;
+    border-radius: 24px 24px 24px 24px;
+    background-color: #e8c57c;
+    color: #fff;
+    cursor:pointer;
+    outline: none;
+    text-transform: capitalize;
+}
